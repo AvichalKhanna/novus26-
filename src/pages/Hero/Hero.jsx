@@ -2,9 +2,7 @@ import GlitchText from "./GlitchText"
 import NavBar from "./Navbar"
 import Body from "./Body"
 import Sponsors from "./Sponsors"
-import hero_bg_techno from "../../assets/hero_bg.mp4"
 import { motion } from "framer-motion"
-import SponsorsPage from "../Sponsors.jsx/SponsorsPage"
 import Background from "../Home/Background"
 export default function Hero(){
     return (
