@@ -1,7 +1,4 @@
 import { motion } from "framer-motion"
-import Nav_home from "./Home/nav_home"
-import Background from "./Home/Background"
-import Events from "./Events/Events"
 import Hero from "./Hero/Hero"
 import Contact from "./contact/contact"
 import SponsorsPage from "./Sponsors.jsx/SponsorsPage"
